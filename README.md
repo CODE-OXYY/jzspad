@@ -29,14 +29,14 @@ Designed at a precise 98mm x 75mm, staying  Under the 100x100mm threshold.
 ## BOTTOM CASE MODEL
 ![PCB Layout](assets/bottom.jpg)
 
-## JZS PAD CAD MODEL
+## JZSPAD CAD MODEL
 
 The custom enclosure was modeled in **Onshape**. It features snap-fit or screw-mounted standoffs designed perfectly for the custom PCB layout and keycaps.
 
 ![PCB Layout](assets/platendbottom.jpg)
 
 
-## JZS PAD CAD AND PCB MODEL
+## JZS PADCAD & PCB MODEL
 ![PCB Layout](assets/jzspadv1.jpg)
 
 ## ✨ Features
