@@ -13,7 +13,7 @@ The schematic was designed using KiCad all peripherals (OLED, LEDs, Encoder, Mat
 
 ## PCB LAYOUT
 
-Designed at a precise 98mm x 75mm, staying perfectly under the standard 100x100mm threshold.
+Designed at a precise 98mm x 75mm, staying  Under the 100x100mm threshold.
 
 ![PCB Layout](assets/pcb.jpg)
 
