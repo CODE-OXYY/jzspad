@@ -1,0 +1,11 @@
+﻿Item Description,Specification / Details,Qty,Reference / Purpose
+XIAO RP2040,Seeed Studio Microcontroller,1,U2
+"0.91"" OLED Display","128x32 Resolution, I2C",1,U1
+EC11 Rotary Encoder,Standard 20mm with push button,1,SW1
+MX Mechanical Switches,"Solderable, 1U size",9,SW2 - SW10
+SK6812MINI-E LEDs,"RGB, Reverse-Mount",13,"D1 - D9, D19 - D22"
+1N4148 Diodes,DO-35 (Through-hole),9,D10 - D18
+DSA Profile Keycaps,"1U size, for MX switches",9,Key matrix
+Heat-set Inserts"M3x5x4mm",4,Enclosure mounting
+M3 Machine Screws,M3x16mm,4,Enclosure assembly
+Custom 3D Printed Parts,"Switch plate, bottom case",1 set,Main enclosure
