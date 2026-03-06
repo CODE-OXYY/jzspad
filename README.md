@@ -23,6 +23,9 @@ Designed at a precise 98mm x 75mm, staying  Under the 100x100mm threshold.
 
 
 ## 📦 Mechanical Design (3D Case)
+The custom enclosure was modeled in **Onshape**. It features snap-fit or screw-mounted standoffs designed perfectly for the custom PCB layout and keycaps.
+## onShape Link- **[View 3D Model on Onshape](https://cad.onshape.com/documents/0e5f4d1caed17afff98262ba/w/1524feb8a85fbf17300e4cda/e/ec6d6c9958024086a6d99712)**
+
 ## PLATE MODEL
 ![PCB Layout](assets/plate.jpg)
 
@@ -30,8 +33,6 @@ Designed at a precise 98mm x 75mm, staying  Under the 100x100mm threshold.
 ![PCB Layout](assets/bottom.jpg)
 
 ## JZSPAD CAD MODEL
-
-The custom enclosure was modeled in **Onshape**. It features snap-fit or screw-mounted standoffs designed perfectly for the custom PCB layout and keycaps.
 
 ![PCB Layout](assets/platendbottom.jpg)
 
